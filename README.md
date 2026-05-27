@@ -1,1 +1,1 @@
-CRM for schools.
+CRM system for schools.
