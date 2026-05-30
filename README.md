@@ -1,1 +1,1 @@
-CRM system for schools.
+Customer Relationship Management system for schools.
